@@ -46,7 +46,7 @@ public class Caesar {
          
          Caesar s = new Caesar(2);
          
-        // String m = TastaturEingabe.readString("Gib deinen Satz ein , um zu codieren : ");
+         String m = TastaturEingabe.readString("Gib deinen Satz ein , um zu codieren : ");
          
          for (int i = 0 ; i < m.length(); i++) {
            
