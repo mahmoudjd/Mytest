@@ -1,4 +1,4 @@
-package OOP_1.AltKlausur.CaesarCodierung;
+package CaesarCodierung;
 
 
 public class Caesar {
